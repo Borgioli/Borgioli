@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Leonardo Borgioli — AI and robotics research</title>
+<desc id="desc">Academic profile banner with a geometric illustration of video sequences and learned representations.</desc>
+<defs><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#cbd9df" stroke-width="0.6" opacity="0.35"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="#f3f6f7"/>
+<rect x="720" width="480" height="300" fill="url(#grid)"/>
+<rect x="42" y="43" width="34" height="4" rx="2" fill="#137f78"/>
+<text x="42" y="83" fill="#526d7a" font-family="Arial, sans-serif" font-size="17" letter-spacing="3">AI &amp; ROBOTICS RESEARCH</text>
+<text x="38" y="153" fill="#142a36" font-family="Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Leonardo Borgioli</text>
+<text x="42" y="204" fill="#526d7a" font-family="Arial, sans-serif" font-size="22">Video representations · Multimodal learning</text>
+<text x="42" y="238" fill="#526d7a" font-family="Arial, sans-serif" font-size="22">Surgical robotics</text>
+<g fill="none" stroke="#cbd9df" stroke-width="1.5">
+<path d="M 800 102 C 890 102 874 105 946 130 M 800 151 C 880 151 886 144 946 144 M 800 201 C 886 201 880 174 946 158"/>
+<path d="M 1020 144 C 1060 144 1070 94 1118 94 M 1020 144 H 1118 M 1020 144 C 1070 144 1060 196 1118 196"/>
+</g>
+<rect x="742" y="72" width="66" height="43" rx="6" fill="#f3f6f7" stroke="#427b9c" stroke-width="1.5"/><path d="M 753 102 L 769 89 L 780 97 L 796 83" fill="none" stroke="#137f78" stroke-width="2"/><rect x="742" y="122" width="66" height="43" rx="6" fill="#f3f6f7" stroke="#427b9c" stroke-width="1.5"/><path d="M 753 152 L 769 139 L 780 147 L 796 133" fill="none" stroke="#137f78" stroke-width="2"/><rect x="742" y="172" width="66" height="43" rx="6" fill="#f3f6f7" stroke="#427b9c" stroke-width="1.5"/><path d="M 753 202 L 769 189 L 780 197 L 796 183" fill="none" stroke="#137f78" stroke-width="2"/><rect x="942" y="108" width="20" height="20" rx="4" fill="#137f78" opacity="0.85"/><rect x="942" y="134" width="20" height="20" rx="4" fill="#427b9c" opacity="0.35"/><rect x="942" y="160" width="20" height="20" rx="4" fill="#427b9c" opacity="0.35"/><rect x="968" y="108" width="20" height="20" rx="4" fill="#427b9c" opacity="0.35"/><rect x="968" y="134" width="20" height="20" rx="4" fill="#427b9c" opacity="0.35"/><rect x="968" y="160" width="20" height="20" rx="4" fill="#137f78" opacity="0.85"/><rect x="994" y="108" width="20" height="20" rx="4" fill="#427b9c" opacity="0.35"/><rect x="994" y="134" width="20" height="20" rx="4" fill="#137f78" opacity="0.85"/><rect x="994" y="160" width="20" height="20" rx="4" fill="#427b9c" opacity="0.35"/><circle cx="1120" cy="94" r="8" fill="#f3f6f7" stroke="#137f78" stroke-width="2"/><circle cx="1120" cy="144" r="8" fill="#f3f6f7" stroke="#137f78" stroke-width="2"/><circle cx="1120" cy="196" r="8" fill="#f3f6f7" stroke="#137f78" stroke-width="2"/><path d="M 742 258 H 1128" stroke="#cbd9df"/><text x="742" y="281" fill="#526d7a" font-family="monospace" font-size="12" letter-spacing="2">OBSERVATION / REPRESENTATION</text></svg>
