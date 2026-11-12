@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="Leonardo Borgioli — video representation learning, multimodal models, and surgical robotics" width="1200">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-sitl-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-sitl-light.svg">
+  <img src="assets/header-sitl-light.svg" alt="Leonardo Borgioli — AI and robotics research, with the UIC Surgical Innovation and Training Laboratory in the background" width="1200">
 </picture>
 
 <p align="center">
